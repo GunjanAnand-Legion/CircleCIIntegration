@@ -1,4 +1,5 @@
 //subtract 2 numbers
+//another comment
 public class subtract2digits {
 	public void difference(int a, int b){
 		int diffOfDigit=a-b;
